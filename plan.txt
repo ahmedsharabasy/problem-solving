@@ -1,0 +1,46 @@
+مهتم بال problem solving؟
+
+بما ان اغلب الناس هنا حاسبات ومعلومات
+فحبيت اشارك معاكم نشاط كدة بعمله أنا وبعض زمايلي في الكلية
+احنا ماشيين بخطة بسيطة مع نفسنا بنذاكر فيها توبيكس سوا وبنشجع بعض.
+بنذاكر فيها كل اسبوعين توبيك واحد طول السنة ماعدا ايام الضغط في الكلية زي الميد او الفاينل بنريح شوية او بنوقف خالص 
+وعاملين جروب ع كودفورسيس بننزل عليه الشيتات وجروب واتس بنناقش فيه الحلول وننزل عليه الماتريال
+ودي الخطة اللي ماشيين عليها
+
+Level 1:
+Frequency array
+Prefix sum
+Two pointers
+Binary search
+STLs
+
+Level 2:
+Bitmasks
+Number theory
+Recursion
+Backtracking
+DFS
+BFS
+
+Level 3:
+Dynamic Programming
+Spanning Trees
+Dijkstra's algorithm
+Bellman Ford Single Source
+Segment Tree
+Lazy Propagation
+Binary Indexed Tree
+
+Level 4:
+Sparse Table
+Lowest Common Ancestor (LCA)
+Combinatorics
+Geometry
+Game theory
+Mo's Algorithm
+Sqrt Decomposition
+KMP Algorithm
+Hashing && Rabin Carb
+Trie
+Algebra
+Probability
